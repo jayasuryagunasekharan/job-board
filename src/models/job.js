@@ -1,4 +1,4 @@
-const { default: mongoose } = require("mongoose");
+import mongoose from "mongoose";
 
 const JobSchema = new mongoose.Schema({
   companyName: String,

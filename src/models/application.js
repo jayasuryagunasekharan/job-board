@@ -1,4 +1,4 @@
-const { default: mongoose } = require("mongoose");
+import mongoose from "mongoose";
 
 const ApplicationSchema = new mongoose.Schema({
   recruiterUserID: String,

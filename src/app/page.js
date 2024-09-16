@@ -21,7 +21,7 @@ async function Home() {
                 <span className="flex space-x-2">
                   <span className="block w-14 mb-2 dark:border-white border-b-2 border-gray-700"></span>
                   <span className="font-medium dark:text-white text-gray-600">
-                    One Stop Solution to Find Jobs
+                    One Stop Solution to Jobs and Community
                   </span>
                 </span>
                 <h1 className="text-3xl dark:text-white mt-5 lg:text-7xl text-black font-extrabold">

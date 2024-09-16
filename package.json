@@ -22,7 +22,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "lucide-react": "^0.368.0",
-    "mongoose": "^8.3.2",
+    "mongoose": "^8.6.2",
     "next": "14.2.1",
     "next-themes": "^0.3.0",
     "query-string": "^9.0.0",
